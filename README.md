@@ -1,5 +1,9 @@
 \# 🍽️ SmartMess AI — Intelligent Food Demand Prediction System
-![alt text](<ChatGPT Image Apr 7, 2026, 08_06_33 PM.png>)
+<p align="center">
+  <img src="logo.png" width="200"/>
+</p>
+
+# 🍽️ SmartMess AI — Intelligent Food Demand Prediction System
 
 
 Predicts how many people will actually eat — not just who said they will.
